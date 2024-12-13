@@ -1,4 +1,4 @@
-const CACHE_NAME = "meangpu-BaseAutoBuild-0.0.123-1734078191428";
+const CACHE_NAME = "meangpu-BaseAutoBuild-0.0.129-1734090023129";
 const OFFLINE_URL = 'index.html';
 const contentToCache = [
     "index.html",
